@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "173015570961",
+    "project_id": "digital-transformation-e0e8f",
+    "storage_bucket": "digital-transformation-e0e8f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:173015570961:android:87260aa421755cbb9b2fb0",
+        "android_client_info": {
+          "package_name": "com.example.digital_government"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbGNHOTACixm3yVurOuPRyunL1_M7s9IE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:173015570961:android:9676771f528a95499b2fb0",
+        "android_client_info": {
+          "package_name": "com.example.ministry_of_defense"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbGNHOTACixm3yVurOuPRyunL1_M7s9IE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
